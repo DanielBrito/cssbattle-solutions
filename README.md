@@ -1,4 +1,4 @@
-# My solutions for CSSBattle
+# :crossed_swords: Solutions for CSSBattle
 
 [CSSBattle](https://cssbattle.dev/) is an awesome platform to practice design through creative challenges.
 
